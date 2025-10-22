@@ -161,7 +161,3 @@ Produção:
 - `/clients/<id>/update` (POST)
 - `/clients/<id>/delete` (POST)
 - `/reports` (GET)
-
-## Screenshots (sugestão)
-
-Inclua capturas de tela das páginas: Listagem, Formulário e Relatórios após subir localmente.
